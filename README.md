@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
-:point_right:[**Visit the project website**](https://alvezandreluiz.github.io/cod3r-calculadora-reactjs/)
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+:point_right:[**Visit the project website**](https://alvezandreluiz.github.io/cod3r-calculadora-reactjs/)
 
 ## Available Scripts
 
