@@ -75,6 +75,6 @@ Instructor: [Leonardo Moura Leitão]( https://www.linkedin.com/in/leonardo-leit%
 
 <div align="right">
   <a href="#top">
-    <img alt="Up" height="25" src="./src/assets/images/angle-up.svg">
+    <img alt="Up" height="25" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/angle-up.svg">
   </a>
 </div>
