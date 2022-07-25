@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+:point_right:[**Visit the project website**](https://alvezandreluiz.github.io/cod3r-calculadora-reactjs/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,3 +70,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Instructor: [Leonardo Moura Leitão]( https://www.linkedin.com/in/leonardo-leit%C3%A3o-8a5813186/)
+
+<div align="right">
+  <a href="#top">
+    <img alt="Up" height="25" src="./src/assets/images/angle-up.svg">
+  </a>
+</div>
